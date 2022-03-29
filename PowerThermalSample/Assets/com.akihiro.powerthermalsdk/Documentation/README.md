@@ -1,7 +1,9 @@
+*Insider Preview機能のためSDKの変更などにより正式リリース時には利用できなくなる可能性があります*
+
 # com.akihiro.powerthermalsdk
 - HoloLens 2 の温度によるデバイスのパフォーマンス制限をコントロールできる機能
+- [Microsoft HoloLens の Insider Preview](https://docs.microsoft.com/ja-jp/hololens/hololens-insider#power-and-thermal-sdk-for-apps)
 - PowerThermalNotification SDK
-    - [Microsoft HoloLens の Insider Preview](https://docs.microsoft.com/ja-jp/hololens/hololens-insider#power-and-thermal-sdk-for-apps)
     - [電力と温度の管理](https://docs.microsoft.com/ja-JP/windows/mixed-reality/develop/unity/managing-power-and-thermals)
 
 ## 動作環境
