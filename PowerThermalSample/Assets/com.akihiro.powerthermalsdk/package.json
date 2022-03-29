@@ -1,0 +1,14 @@
+{
+    "name": "com.akihiro.powerthermalsdk",
+    "version": "1.0.0",
+    "displayName": "com.akihiro.powerthermalsdk",
+    "description": "com.akihiro.powerthermalsdk",
+    "unity": "2020.3",
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample",
+            "path": "Samples"
+        }
+    ]
+}

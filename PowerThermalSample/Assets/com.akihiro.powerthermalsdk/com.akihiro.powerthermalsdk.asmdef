@@ -1,0 +1,23 @@
+{
+    "name": "com.akihiro.powerthermalsdk",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6dcde5f960f47f946a7f6a76821aa239",
+        "GUID:1279798e739ad27498ff7efae69dce9b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.microsoft.mixedreality.powerthermalnotification",
+            "expression": "",
+            "define": "POWERTHERMALNOTIFICATION"
+        }
+    ],
+    "noEngineReferences": false
+}
